@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/yxbxrock'
-global.sgh = 'https://github.com/Yxbxrock' //github
-global.sgc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //group whatsapp
-global.sdc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //discord
-global.snh = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' // my youtube channel
+global.sig = 'https://instagram.com/azmihaqqan67'
+global.sgh = 'https://github.com/Chezeelmaoxzy' //github
+global.sgc = '-' //group whatsapp
+global.sdc = '-' //discord
+global.snh = 'https://youtube.com/channel/UCcd8Mmh9mQzQhfZJPwnOWwQ' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '082365089294' //dana
+global.pdana = '081241956878' //dana
 global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pgopay = '081241956878' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '082365089294' //telkomsel
-global.ppulsa2 = '089630810886' // kalau ada kartu lain isi aja
+global.ppulsa = '081241956878' //telkomsel
+global.ppulsa2 = '081241956878' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289630810886'
-global.nomorown = '6282365089294'
-global.namebot = 'Xyze Bot'
-global.nameown = 'frmndaa'
+global.nomorbot = '6282195750041'
+global.nomorown = '6281241956878'
+global.namebot = 'wangsaff Bot'
+global.nameown = 'azmy'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -109,9 +109,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = 'XYZE BOT' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ XYZE BOT  ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ XYZE BOT⁩  '
+global.wm = 'WANGSAFF-BOT' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ wangsaff bot  ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ WANGSAFF BOT⁩  '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
@@ -190,7 +190,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Created By'
-global.stickauth = 'XYZE BOT'
+global.stickauth = 'wangsaff bot'
 
 global.multiplier = 38 // The higher, The harder levelup
 
